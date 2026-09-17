@@ -1,6 +1,6 @@
 # Exp - 6(AAI) - Solving a Stochastic Grid-World Markov Decision Process Using Value Iteration and Policy Iteration
 
-<H3>Enter Name: RAGALA SAI VIVEK S</H3>
+<H3>Enter Name: RAGALA SAI VIVEK </H3>
 <H3>Enter Register No.: 212223230163</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE: 17/9/2026</H3>
