@@ -3,7 +3,7 @@
 <H3>Enter Name: RAGALA SAI VIVEK </H3>
 <H3>Enter Register No.: 212223230163</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE: 17/9/2026</H3>
+<H3>DATE: 24/08/2026</H3>
 A compact Python implementation of two dynamic-programming methods for solving a stochastic grid-world Markov decision process (MDP):
 
 - **Value Iteration**
